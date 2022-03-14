@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalialmalki&label=Profile%20views&color=0e75b6&style=flat" alt="devalialmalki" /> </p>
 
+<br><br>
+
 - 🔭 I’m a full stack web developer 🖥
 - 🌱 I’m currently learning new frontend techniques
 - 📫 How to reach me: dev.alialmalki@gmail.com
