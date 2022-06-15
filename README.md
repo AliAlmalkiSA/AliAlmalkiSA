@@ -14,9 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ali-r-almalki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-r-almalki" height="30" width="40" /></a>
 </p>
-
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dark&locale=en" alt="devalialmalki" /></p>
 <br><br>
 <p align="center">
   <a href="https://www.buymeacoffee.com/AliTBD">
