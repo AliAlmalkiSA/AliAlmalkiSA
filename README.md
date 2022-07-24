@@ -25,7 +25,7 @@
 <p><a href="https://www.buymeacoffee.com/AliTBD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AliTBD" /></a><a href="https://ko-fi.com/AliTBD"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AliTBD" /></a></p><br><br><br>
 
 <details>
-  <summary>Click here for <b>Github Stats</b>  :zap:</summary>
+  <summary><h3 align="left">Click here for <b>Github Stats</b>  :zap:</h3></summary>
   <br>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devalialmalki" /></p>
 </details>
