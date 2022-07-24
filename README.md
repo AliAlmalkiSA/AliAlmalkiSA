@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Almalki</h1>
-<h3 align="center">A full stack web developer from KSA with big dreams 👨🏻‍💻</h3>
+<h3 align="center">Full stack web developer from KSA with big dreams 👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalialmalki&label=Profile%20views&color=0e75b6&style=plastic" alt="devalialmalki" /> </p>
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AliTBD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AliTBD" /></a><a href="https://ko-fi.com/AliTBD"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AliTBD" /></a></p><br><br><br>
-
+<br>
 <details>
   <summary><h3 align="left">Click here for <b>Github Stats</b>  :zap:</h3></summary>
   <br>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devalialmalki" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devalialmalki" /></p>
 </details>
