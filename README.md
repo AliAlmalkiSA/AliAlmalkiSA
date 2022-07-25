@@ -23,7 +23,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AliTBD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AliTBD" /></a><a href="https://ko-fi.com/AliTBD"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AliTBD" /></a></p>
-<br><br>
+<br><br><br>
+
 <details>
   <summary><h3 align="left">&nbsp;Click here for <b>Github Stats</b>  :zap:</h3></summary>
   <br>
