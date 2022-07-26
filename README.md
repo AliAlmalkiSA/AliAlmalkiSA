@@ -27,5 +27,5 @@
 
 <details>
   <summary><h3 align="left">Click here for <b>Github Stats</b>  :zap:</h3></summary>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&include_all_commits=true&hide=stars,contribs" alt="devalialmalki" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=devalialmalki&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&include_all_commits=true&hide=contribs" alt="devalialmalki" /></p>
 </details>
