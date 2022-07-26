@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dev.alialmalki@gmail.com**
 
-- ⚡ Fun fact **Love to watch TV shows 📺 and football matches ⚽**
+- ⚡ Fun fact **I love to watch TV shows 📺 and football matches ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
