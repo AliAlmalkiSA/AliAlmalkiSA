@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Almalki</h1>
 <h3 align="center">Full stack web developer from KSA with big dreams 👨🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devalialmalki&label=Profile%20views&color=0e75b6&style=plastic" alt="devalialmalki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alialmalkisa&label=Profile%20views&color=0e75b6&style=plastic" alt="alialmalkisa" /> </p>
 
 - 🔭 I’m constantly **working on myself**
 
