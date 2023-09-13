@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Almalki</h1>
-<h3 align="center">Full stack web developer with big dreams 👨🏻‍💻</h3>
+<h3 align="center">Full-stack web developer with big dreams 👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialmalkisa&label=Profile%20views&color=0e75b6&style=plastic" alt="alialmalkisa" /> </p>
 
@@ -23,5 +23,5 @@
 
 <details>
   <summary><h3 align="left">Click here for <b>Github Stats</b>  :zap:</h3></summary>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=alialmalkisa&show_icons=true&theme=dracula&hide_border=true&locale=en&count_private=true&include_all_commits=true&hide=contribs" alt="alialmalkisa" /></p>
+  <p><img src="https://github-contribution-stats.vercel.app/api/?username=alialmalkisa" alt="alialmalkisa" /></p>
 </details>
