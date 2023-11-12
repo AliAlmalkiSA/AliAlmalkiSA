@@ -7,9 +7,18 @@
 
 - 🌱 I’m currently learning **new backend and frontend techniques**
 
-- 💬 Ask me about **PHP, Laravel and JS**
-
 - 📫 How to reach me **dev.alialmalki@gmail.com**
 
 <br/>
-<p align="center"><img src="https://github-contribution-stats.vercel.app/api/?username=alialmalkisa" alt="alialmalkisa" /></p>
+
+<p>
+  <h3>My Skills</h3>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,js,css,php,laravel,tailwind,react,vue,alpinejs,mysql,git,github,docker" />
+  </a>
+</p>
+
+<p>
+  <h3>My Stats</h3>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=AliAlmalkiSA" alt="AliAlmalkiSA" />  
+</p>
