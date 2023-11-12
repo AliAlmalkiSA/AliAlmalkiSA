@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **dev.alialmalki@gmail.com**
 
-<br/>
-
 <p>
   <h3>My Skills</h3>
   <a href="#">
