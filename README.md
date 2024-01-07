@@ -6,7 +6,7 @@
 * 🌍  I'm based in Makkah, Saudi Arabia
 * 🔭 I’m constantly **working on myself**
 * 🌱 I’m currently learning **new backend and frontend techniques**
-* 🖥️  See my portfolio at [alialmalki.sa](http://alialmalki.sa)
+* 🖥️  Visit my website at [alialmalki.sa](http://alialmalki.sa)
 * ✉️  You can contact me at [dev.alialmalki@gmail.com](mailto:dev.alialmalki@gmail.com)
 
 <p>
