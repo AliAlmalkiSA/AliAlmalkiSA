@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ali Almalki</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00bba7&text=Hi,%20i'm%20Ali%20Almalki&desc=Full-stack%20Web%20Developer&descAlignY=55&animation=fadeIn&section=header&textBg=false&fontColor=FFFFFF&reversal=false&fontAlignY=40&fontSize=50" width="100%" alt="header"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alialmalkisa&label=Profile%20views&color=0e75b6&style=plastic" alt="alialmalkisa" /> </p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=alialmalkisa&style=for-the-badge&color=00bba7&labelColor=0d1117&label=Profile+Views)
+
+</div>
 
 * 🌍  I'm based in Makkah, Saudi Arabia
 * 🔭 I’m constantly **working on myself**
@@ -20,3 +25,7 @@
   <summary><h3 align="left">Click here for <b>Github Stats</b>  :zap:</h3></summary>
   <p><img src="https://github-contribution-stats.vercel.app/api/?username=AliAlmalkiSA" alt="AliAlmalkiSA" /></p>
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00bba7&descAlignY=55&animation=fadeIn&section=footer&textBg=false&fontColor=FFFFFF&reversal=false&fontAlignY=40&fontSize=50" width="100%" alt="footer"/>
+</p>
